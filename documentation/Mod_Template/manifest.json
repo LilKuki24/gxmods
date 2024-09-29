@@ -1,6 +1,6 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "LilKUki",
+    "description": "SOLO MIO",
     "developer":
     {
         "name": "DEVELOPER NAME GOES HERE"
@@ -17,7 +17,7 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
+                "music/https://cdn.discordapp.com/attachments/988642762737975306/1273357738960752670/8D_Baby_Johnny_-_Los_Monos_Video_Official.mp3?ex=66fa4e8e&is=66f8fd0e&hm=aa6675d430bb193a078afff3764ddd19b4a442228e2d2622974267be68e06343&",
                 "music/track_2.mp3",
                 "music/track_3.mp3",
                 "music/track_4.mp3"
